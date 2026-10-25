@@ -1,0 +1,6 @@
+{
+  "name": "Tailor HVAC Services: Road to Journeyman",
+  "description": "Career progression and technical diagnostic platform documenting an Arizona technician's journey from trade school to licensed HVAC journeyman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
